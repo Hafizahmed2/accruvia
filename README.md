@@ -1,4 +1,3 @@
-# ACCRUVIA
 - The frontend is in the twitter directory whereas the backend API is in twitter_api directory
 - Clone the repository
 ### Setup (Backend API)
